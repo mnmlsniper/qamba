@@ -1,6 +1,6 @@
 ---
 title: "Полное руководство: Умный мониторинг тестов Playwright через GitLab CI"
-date: 2023-11-15
+date: 2025-10-04T00:00:00+03:00
 draft: false
 slug: "playwright-gitlab-ci-monitoring"
 description: "Стань экспертом по Playwright! Разбираю мониторинг тестов в GitLab CI: настройка cron-расписаний, борьба с flaky-тестами и автоматизация отчетности. Готовые примеры конфигов."
