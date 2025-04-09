@@ -1,5 +1,5 @@
-baseURL: https://example.org/
-languageCode: en-us
+baseURL: "https://qawithlove.github.io/qamba/"
+languageCode: "ru-ru"
 title: My New Hugo Site
 theme: PaperMod
 params:
@@ -7,7 +7,7 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >-
-      Welcome to my website.      
+      Welcome to my website.
   socialIcons:
     - name: email
-      url: 'mailto:ya@qa.mba'
+      url: "mailto:ya@qa.mba"
