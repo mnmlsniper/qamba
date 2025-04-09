@@ -19,7 +19,9 @@ jobs:
           hugo-version: "latest"
 
       - name: Build
-        run: hugo --minify
+        run: | 
+            hugo --minify
+            touch public/.nojekyll  # Отключаем Jekyll
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
