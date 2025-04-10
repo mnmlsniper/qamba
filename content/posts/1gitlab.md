@@ -1,6 +1,6 @@
 ---
 title: "Полное руководство: Умный мониторинг тестов Playwright через GitLab CI"
-date: 2025-10-04T00:00:00+03:00
+date: 2025-04-10T22:14:54+03:00
 draft: false
 slug: "playwright-gitlab-ci-monitoring"
 description: "Стань экспертом по Playwright! Разбираю мониторинг тестов в GitLab CI: настройка cron-расписаний, борьба с flaky-тестами и автоматизация отчетности. Готовые примеры конфигов."
@@ -89,3 +89,4 @@ Cron: 0 0 * * *
 
 *Нужна помощь?*
 Присоединяйтесь к [моему Telegram-каналу @qawithlove](https://t.me/qawithlove)
+---
