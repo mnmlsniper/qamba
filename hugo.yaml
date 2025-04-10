@@ -1,8 +1,11 @@
 baseURL: https://qawithlove.github.io/qamba/
 publishDir: public
 languageCode: ru-ru
-title: My New Hugo Site
-theme: PaperMod
+defaultContentLanguage: ru
+title: "QA: Metrics. Bugs. Automation."
+pagination:
+  mainSections: ["posts"] # Указывает, какие разделы показывать на главнойΩ
+  pagerSize: 10 # Количество постов на страницеtheme: PaperMod
 params:
   defaultTheme: dark
   homeInfoParams:
@@ -12,3 +15,21 @@ params:
   socialIcons:
     - name: email
       url: "mailto:ya@qa.mba"
+languages:
+  ru:
+    languageName: "Русский"
+    weight: 1
+    #    category: categories
+    #    tag: tags
+    #    series: series
+    menu:
+      main:
+        - name: Архив
+          url: archives
+          weight: 5
+        - name: Поиск
+          url: search/
+          weight: 10
+        - name: Тэги
+          url: tags/
+          weight: 10
