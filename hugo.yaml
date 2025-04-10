@@ -5,22 +5,36 @@ languageCode: ru-ru
 title: qa.mba
 theme: ["PaperMod"]
 params:
+  favicon: favicon.ico
+  assets:
+    favicon16x16: /assets/favicon-16x16.png
+    favicon32x32: /assets/favicon-32x32.png
+    apple_touch_icon: /assets/apple-touch-icon.png
   homeInfoParams:
     Title: "QA Automation: Metrics, Bugs, and Playwright Testing"
     Content: |
-      **Чем помогу:**
-      - [Статьи](/guides) — без воды, только «кофе и код»
-      - [Telegram-чат](https://t.me/qawithlove) — ответы на вопросы про автоматизацию
-      - [Истории](/fails) — Автоматизации с налётом декаданса
-      - [Лаборатория](/experiments) — красивые решения
+      **Практический блог об автоматизации тестирования на Playwright и JavaScript.**
+      Разбираем метрики качества, баги и эффективные решения для QA-инженеров.
 
-      *«Да, тесты ломаются. Но и сердца тоже. Главное — чинить и идти дальше.»*
+        **Основные разделы:**
+        - [Гайды по Playwright](/blog) — настройка, лучшие практики, примеры тестов
+        - [Telegram-чат](https://t.me/qawithlove) — ответы на вопросы по автоматизации
+        - [Разбор ошибок автоматизации](/blog) — реальные кейсы и решения
+        - [Эксперименты с тестами](/blog) — ускорение CI/CD, стабильные тесты
+        - [Лаборатория](/blog) — красивые решения с налетом декаденса
 
-favicon: favicon.ico
-assets:
-  favicon16x16: /assets/favicon-16x16.png
-  favicon32x32: /assets/favicon-32x32.png
-  apple_touch_icon: /assets/apple-touch-icon.png
+        *«Да, тесты ломаются. Но и сердца тоже. Главное — чинить и идти дальше.»*
+
+    author: Любовь Данилова
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
 
 menu:
   main:
