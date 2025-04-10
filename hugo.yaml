@@ -2,3 +2,7 @@ baseURL: https://qawithlove.github.io/qamba/
 languageCode: en-us
 title: My New Hugo Site
 theme: ["PaperMod"]
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about..
