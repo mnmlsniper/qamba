@@ -1,8 +1,34 @@
 baseURL: https://qawithlove.github.io/qamba/
-languageCode: en-us
-title: My New Hugo Site
+canonifyurls: true
+relativeURLs: false
+languageCode: ru-ru
+title: qa.mba
 theme: ["PaperMod"]
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about..
+    Title: "QA Automation: Metrics, Bugs, and Playwright Testing"
+    Content: |
+      **Чем помогу:**
+      - [Статьи](/guides) — без воды, только «кофе и код»
+      - [Telegram-чат](https://t.me/qawithlove) — ответы на вопросы про автоматизацию
+      - [Истории](/fails) — Автоматизации с налётом декаданса
+      - [Лаборатория](/experiments) — красивые решения
+
+      *«Да, тесты ломаются. Но и сердца тоже. Главное — чинить и идти дальше.»*
+
+favicon: favicon.ico
+assets:
+  favicon16x16: /assets/favicon-16x16.png
+  favicon32x32: /assets/favicon-32x32.png
+  apple_touch_icon: /assets/apple-touch-icon.png
+
+menu:
+  main:
+    - identifier: home
+      name: Главная
+      url: /
+      weight: 10
+    - identifier: posts
+      name: Блог
+      url: /posts/
+      weight: 20
