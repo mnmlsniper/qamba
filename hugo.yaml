@@ -2,6 +2,7 @@ baseURL: https://qawithlove.github.io/qamba/
 publishDir: public
 languageCode: ru-ru
 defaultContentLanguage: ru
+theme: ["PaperMod"]
 title: "QA: Metrics. Bugs. Automation."
 pagination:
   mainSections: ["posts"] # Указывает, какие разделы показывать на главнойΩ
