@@ -46,3 +46,7 @@ menu:
       name: Блог
       url: /posts/
       weight: 20
+
+services:
+  googleAnalytics:
+    id: G-VHQ5FKS7D8
