@@ -11,7 +11,7 @@ params:
     favicon32x32: /static/favicon-32x32.png
     apple_touch_icon: /assets/apple-touch-icon.png
   homeInfoParams:
-    Title: "QA Automation: Metrics, Bugs, and Playwright Testing"
+    Title: "QA Automation: Metrics, Bugs, and Automation"
     Content: |
       **Практический блог об автоматизации тестирования на Playwright и JavaScript.**
       Разбираем метрики качества, баги и эффективные решения для QA-инженеров.
