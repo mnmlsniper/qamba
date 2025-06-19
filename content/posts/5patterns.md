@@ -2,7 +2,7 @@
 title: "Галерея Builder Pattern: 7 шедевров создания объектов. Часть II"
 description: "Продолжение галереи Builder Pattern. Конфиг-объекты, цепочка методов, супрематизм и импрессионизм в коде. Современные паттерны создания объектов."
 tags: ["builder-pattern", "design-patterns", "method-chaining", "config-objects", "javascript", "automation", "qa-automation", "object-creation", "testing-patterns", "software-design", "ТестируемСЛюбовью"]
-date: 2025-06-18
+date: 2025-06-19
 draft: false
 ShowToc: true
 TocOpen: true
