@@ -6,7 +6,7 @@ slug: "playwright-gitlab-ci-monitoring"
 description: "Стань экспертом по Playwright! Разбираю мониторинг тестов в GitLab CI: настройка cron-расписаний, борьба с flaky-тестами и автоматизация отчетности. Готовые примеры конфигов."
 keywords: ["Playwright мониторинг тестов", "GitLab CI настройка", "автоматизация тестирования Playwright", "настройка расписания тестов в GitLab", "Playwright GitLab интеграция", "cron расписание тестов","решение flaky тестов"]
 categories: ["Автоматизация тестирования"]
-tags: ["playwright", "gitlab", CI/CD", "тестирование", "Playwright тестирование", "GitLab CI мониторинг", "автоматизация тестов", "настройка расписания тестов", "Playwright GitLab интеграция"]
+tags: ["playwright", "gitlab", "CI/CD", "тестирование", "Playwright тестирование", "GitLab CI мониторинг", "автоматизация тестов", "настройка расписания тестов", "Playwright GitLab интеграция"]
 ShowToc: true
 TocOpen: true
 ---
